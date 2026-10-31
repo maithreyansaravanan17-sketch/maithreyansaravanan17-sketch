@@ -1,276 +1,171 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=230&section=header&text=MAITHREYAN&fontSize=68&fontColor=FFFFFF&fontAlignY=40&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=14&descColor=58A6FF&descAlignY=65&animation=fadeIn" width="100%" />
+# MAITHREYAN
+
+**STUDENT DEVELOPER · SOFTWARE · AI · ROBOTICS**
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Student+Developer;AI+%26+Robotics+Enthusiast;Embedded+Systems+Explorer;Building+Things+That+Matter" alt="Animated developer introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=4D8DFF&center=true&vCenter=true&width=550&height=35&lines=Building+ideas+into+technology.;Exploring+software+and+hardware.;Learning.+Experimenting.+Engineering." alt="Introduction"/>
 
 <br/>
 
-**Student Developer · AI · Robotics · Software Engineering**
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)](https://portfolio.maithreyan120.workers.dev/)
-[![GitHub](https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maithreyan-saravanan17-sketch)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-161B22?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maithreyan.dev)
+[Portfolio ↗](https://portfolio.maithreyan120.workers.dev/) &nbsp; / &nbsp; [Repositories ↗](https://github.com/maithreyan120-sketch?tab=repositories) &nbsp; / &nbsp; [Instagram ↗](https://instagram.com/maithreyan.dev)
 
 </div>
 
 ---
 
-<div align="center">
+## 01 — Overview
 
-# THINK. BUILD. EXPERIMENT.
+I'm Maithreyan, a student developer interested in building practical technology through software engineering, artificial intelligence, robotics and embedded systems.
 
-*Technology is not just something to learn. It's something to create with.*
+I enjoy exploring how different technologies connect — from writing software and developing digital products to experimenting with electronics and intelligent hardware.
 
-</div>
+**Areas of interest**
 
-## About Me
-
-I'm Maithreyan, a student developer fascinated by the intersection of software, artificial intelligence and engineering.
-
-I enjoy taking ideas from concept to implementation, experimenting with emerging technologies and exploring how software and hardware can work together to solve real-world problems.
-
-My interests include:
-
-- Artificial Intelligence and local LLMs
+- Software engineering and web development
+- Artificial intelligence and local LLMs
 - Robotics and embedded systems
-- Full-stack web development
 - Electronics and microcontrollers
-- Intelligent automation
-- Engineering and innovation
-
-I value curiosity, practical experimentation and continuous learning.
+- Intelligent automation and innovation
 
 ---
 
-## What I'm Building
+## 02 — Technology
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Development**
 
-### AI & Intelligent Systems
+![Python](https://img.shields.io/badge/Python-08090B?style=flat-square&logo=python&logoColor=4D8DFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-08090B?style=flat-square&logo=typescript&logoColor=4D8DFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-08090B?style=flat-square&logo=javascript&logoColor=4D8DFF)
+![React](https://img.shields.io/badge/React-08090B?style=flat-square&logo=react&logoColor=4D8DFF)
+![Next.js](https://img.shields.io/badge/Next.js-08090B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-08090B?style=flat-square&logo=tailwindcss&logoColor=4D8DFF)
 
-Exploring intelligent applications, local AI models and practical AI integrations.
+**Hardware & Systems**
 
-</td>
-<td width="50%" valign="top">
+![ESP32](https://img.shields.io/badge/ESP32-08090B?style=flat-square&logo=espressif&logoColor=4D8DFF)
+![Arduino](https://img.shields.io/badge/Arduino-08090B?style=flat-square&logo=arduino&logoColor=4D8DFF)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-08090B?style=flat-square&logo=raspberrypi&logoColor=4D8DFF)
 
-### Robotics & Electronics
+**Infrastructure & Tools**
 
-Experimenting with sensors, microcontrollers, embedded programming and robotic systems.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Web Engineering
-
-Developing modern interfaces, backend systems and independent digital products.
-
-</td>
-<td width="50%" valign="top">
-
-### Innovation
-
-Turning real-world problems into engineering concepts and functional prototypes.
-
-</td>
-</tr>
-</table>
+![Cloudflare](https://img.shields.io/badge/Cloudflare-08090B?style=flat-square&logo=cloudflare&logoColor=4D8DFF)
+![Git](https://img.shields.io/badge/Git-08090B?style=flat-square&logo=git&logoColor=4D8DFF)
+![GitHub](https://img.shields.io/badge/GitHub-08090B?style=flat-square&logo=github&logoColor=FFFFFF)
+![Ollama](https://img.shields.io/badge/Ollama-08090B?style=flat-square&logo=ollama&logoColor=FFFFFF)
 
 ---
 
-## Technology Stack
+## 03 — Selected Work
 
-<div align="center">
+Projects exploring the intersection of software, hardware and real-world problem solving.
 
-**PROGRAMMING**
+### PlantPulse
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&theme=dark" />
+**Intelligent plant monitoring**
 
-**WEB DEVELOPMENT**
+Exploring early plant-stress detection through sensor data, embedded systems and intelligent analysis.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+`ESP32` `Sensors` `AI`
 
-**HARDWARE & EMBEDDED SYSTEMS**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-
-**DEVELOPMENT TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,ollama&theme=dark" />
-
-</div>
+<sub>01 / Planning · Prototype design</sub>
 
 ---
 
-## Featured Projects
+### Dhanvantri
 
-*Engineering concepts, experiments and digital products.*
+**AI × Healthcare × Robotics**
 
-### 01 — PlantPulse
+An interdisciplinary project combining healthcare-oriented robotic systems, vital-sign monitoring, medicinal-plant identification and intelligent assistance.
 
-**Detecting plant stress before visible damage appears.**
+`Raspberry Pi 5` `Python` `Robotics` `AI`
 
-An intelligent plant-monitoring concept exploring sensor-based plant-health analysis and early stress detection.
-
-**Technical direction**
-
-- ESP32-based sensor architecture
-- Environmental data collection
-- Computer-based processing
-- Intelligent analysis
-
-`ESP32` `Sensors` `Embedded Systems` `AI`
-
-<sub>Status: Planning and prototype design.</sub>
+<sub>02 / Project development</sub>
 
 ---
 
-### 02 — Dhanvantri
+### Smart E-Bin
 
-**Ancient Wisdom × Modern Technology**
+**Intelligent waste management**
 
-An AI and robotics project concept combining healthcare-oriented monitoring, intelligent assistance and medicinal-plant identification.
+An embedded electronics project exploring automated waste detection and smart waste-management mechanisms.
 
-**Technical direction**
+`ESP32` `Ultrasonic Sensors` `Servo Motors`
 
-- Raspberry Pi 5
-- Sensor integration
-- Robotic mobility
-- AI-assisted plant identification
-- Voice-based interaction
-
-`Raspberry Pi` `Python` `Robotics` `AI`
-
-<sub>Status: Project development and experimentation.</sub>
+<sub>03 / Hardware experimentation</sub>
 
 ---
 
-### 03 — Smart E-Bin
+### Orbit
 
-**Making waste management smarter.**
+**Independent digital product**
 
-An electronics-based smart waste-management project exploring automated detection and intelligent hardware control.
+A web product focused on authentication, backend architecture and a clean, modern user experience.
 
-**Technical direction**
+`Next.js` `TypeScript` `Cloudflare` `Upstash Redis`
 
-- ESP32-based control
-- Ultrasonic distance sensing
-- Servo-based mechanisms
-- Automation
-
-`ESP32` `Electronics` `Sensors` `IoT`
-
----
-
-### 04 — Orbit
-
-**Independent Web Product**
-
-A separate digital product focused on authentication, backend architecture and a modern user experience.
-
-**Technical direction**
-
-- Next.js and TypeScript
-- Secure authentication architecture
-- Cloudflare Workers
-- Upstash Redis
-- Backend development
-
-`Next.js` `TypeScript` `Cloudflare` `Redis`
-
-<sub>Status: Development.</sub>
+<sub>04 / Development</sub>
 
 ---
 
 <div align="center">
 
-[![Explore all projects](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maithreyan-saravanan17-sketch?tab=repositories)
+[Explore all repositories ↗](https://github.com/maithreyan120-sketch?tab=repositories)
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 04 — GitHub Activity
 
 <div align="center">
 
-### Overview
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maithreyan120-sketch&show_icons=true&hide_border=true&bg_color=08090B&title_color=4D8DFF&icon_color=4D8DFF&text_color=F5F5F0&include_all_commits=true" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maithreyan-saravanan17-sketch&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub overview"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithreyan120-sketch&layout=compact&hide_border=true&bg_color=08090B&title_color=4D8DFF&text_color=F5F5F0&langs_count=8" alt="Most used languages"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithreyan-saravanan17-sketch&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
+<br/>
 
-### Contribution Streak
+<img width="75%" src="https://streak-stats.demolab.com/?user=maithreyan120-sketch&theme=transparent&hide_border=true&ring=4D8DFF&fire=4D8DFF&currStreakLabel=4D8DFF&sideLabels=F5F5F0&dates=999999" alt="Contribution streak"/>
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=maithreyan-saravanan17-sketch&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/>
+<br/>
 
-### Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maithreyan-saravanan17-sketch&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
-
-### Achievements
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=maithreyan-saravanan17-sketch&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="GitHub trophies"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maithreyan120-sketch&bg_color=08090B&color=F5F5F0&line=4D8DFF&point=4D8DFF&area=true&hide_border=true" alt="Contribution activity"/>
 
 </div>
 
 ---
 
-## Current Focus
+## 05 — Currently Exploring
 
-| Area | Focus |
+| Domain | Direction |
 |---|---|
 | AI | Local LLMs and intelligent applications |
+| Web | Full-stack development and modern interfaces |
 | Robotics | Hardware integration and automation |
 | Embedded | ESP32 and sensor-based systems |
-| Web | Next.js and modern application development |
-| Backend | Authentication and distributed services |
+| Backend | Authentication and cloud infrastructure |
 
 ---
 
-## Beyond the Code
+## 06 — Philosophy
 
-I believe great engineering starts with asking better questions.
+> Good technology begins with curiosity. Great engineering comes from experimentation.
 
-I enjoy exploring unfamiliar technologies, understanding how systems work and creating practical solutions through experimentation.
-
-**My approach:**
-
-- Stay curious.
-- Learn by building.
-- Experiment with ideas.
-- Understand the engineering behind the product.
-- Improve continuously.
+I believe in learning by building, understanding systems deeply and creating solutions with purpose.
 
 ---
 
 <div align="center">
 
-## LET'S CONNECT
+# BUILD WITH PURPOSE.
 
-**Have an interesting idea? Let's build something meaningful.**
+**MAITHREYAN**
 
-<br/>
+[Portfolio ↗](https://portfolio.maithreyan120.workers.dev/) &nbsp; / &nbsp; [GitHub ↗](https://github.com/maithreyan120-sketch) &nbsp; / &nbsp; [Instagram ↗](https://instagram.com/maithreyan.dev)
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio.maithreyan120.workers.dev/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github)](https://github.com/maithreyan-saravanan17-sketch)
-[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram)](https://instagram.com/maithreyan.dev)
-
-<br/>
-
-<sub>BUILT WITH CURIOSITY. DRIVEN BY ENGINEERING.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D12&height=110&section=footer" width="100%" />
+<sub>TECHNICAL MINIMALISM · 2026</sub>
 
 </div>
