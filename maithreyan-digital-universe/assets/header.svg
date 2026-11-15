@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Maithreyan Saravanan — Digital Dimension</title>
+<desc id="desc">A luminous cyan and violet portal suspended above a perspective grid in a deep-space digital environment.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050711"/><stop offset=".55" stop-color="#0b1021"/><stop offset="1" stop-color="#130a25"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#00eaff" stop-opacity=".22"/><stop offset=".55" stop-color="#7755ff" stop-opacity=".10"/><stop offset="1" stop-color="#050711" stop-opacity="0"/></radialGradient>
+  <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00f5ff"/><stop offset=".48" stop-color="#8b5cff"/><stop offset="1" stop-color="#00f5ff"/></linearGradient>
+  <linearGradient id="beam" x1="0" x2="1"><stop stop-color="#00eaff" stop-opacity="0"/><stop offset=".5" stop-color="#00eaff" stop-opacity=".8"/><stop offset="1" stop-color="#a879ff" stop-opacity="0"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#2b91b8" stroke-opacity=".22" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="520" fill="url(#bg)"/>
+<ellipse cx="600" cy="280" rx="500" ry="260" fill="url(#halo)"/>
+<g fill="#b9faff" opacity=".75">
+ <circle cx="94" cy="92" r="1.5"/><circle cx="230" cy="176" r="1"/><circle cx="1040" cy="92" r="1.5"/><circle cx="1112" cy="260" r="1"/><circle cx="950" cy="390" r="1.4"/><circle cx="170" cy="390" r="1.2"/><circle cx="760" cy="70" r="1"/>
+</g>
+<g stroke="#2bdcf3" stroke-opacity=".25" fill="none">
+ <path d="M0 390L600 260 1200 390M0 430L600 286 1200 430M0 475L600 315 1200 475"/>
+ <path d="M150 520L530 260M300 520L560 260M450 520L585 260M750 520L615 260M900 520L640 260M1050 520L670 260"/>
+</g>
+<path d="M0 340H1200V520H0Z" fill="url(#grid)" opacity=".28"/>
+<g transform="translate(600 245)" fill="none" filter="url(#glow)">
+ <ellipse rx="210" ry="116" stroke="url(#ring)" stroke-width="2.5" transform="rotate(-24)"/>
+ <ellipse rx="178" ry="102" stroke="#00eaff" stroke-opacity=".7" stroke-width="1.2" transform="rotate(28)"/>
+ <ellipse rx="138" ry="174" stroke="#9871ff" stroke-opacity=".7" stroke-width="1.5" transform="rotate(66)"/>
+ <path d="M-112 105V-52Q-112-142 0-142Q112-142 112-52V105" stroke="url(#ring)" stroke-width="5"/>
+ <path d="M-91 105V-48Q-91-120 0-120Q91-120 91-48V105" stroke="#9b7aff" stroke-opacity=".8" stroke-width="1.5"/>
+ <path d="M-68 105V-40Q-68-94 0-94Q68-94 68-40V105" stroke="#00f5ff" stroke-opacity=".7" stroke-width="1.2"/>
+ <path d="M-260 0H260" stroke="url(#beam)" stroke-width="2"/>
+</g>
+<g fill="#07121e" stroke="#00eaff" stroke-width="1.2" filter="url(#glow)">
+ <path d="M165 175l35-20 35 20v40l-35 20-35-20z" opacity=".8"/>
+ <path d="M945 150l28-16 28 16v32l-28 16-28-16z" opacity=".8"/>
+ <path d="M1000 340l22-13 22 13v26l-22 13-22-13z" opacity=".65"/>
+</g>
+<g fill="none" stroke="#7c6cff" stroke-opacity=".7"><path d="M190 175L330 220 420 160"/><path d="M973 150L850 190 790 130"/><path d="M1022 340L900 300 830 345"/></g>
+<g text-anchor="middle" font-family="Arial,Helvetica,sans-serif">
+ <text x="600" y="65" fill="#77f7ff" font-size="12" letter-spacing="7">PERSONAL DIGITAL UNIVERSE / NODE 001</text>
+ <text x="600" y="225" fill="#f1fbff" font-size="43" font-weight="700" letter-spacing="4">MAITHREYAN</text>
+ <text x="600" y="270" fill="#f1fbff" font-size="43" font-weight="700" letter-spacing="4">SARAVANAN</text>
+ <text x="600" y="316" fill="#9beeff" font-size="13" letter-spacing="3">STUDENT DEVELOPER  //  AI EXPLORER  //  ROBOTICS BUILDER</text>
+ <text x="600" y="485" fill="#8d83bb" font-size="10" letter-spacing="4">ENTER THE DIGITAL DIMENSION</text>
+</g>
+<g fill="#00f5ff"><circle cx="390" cy="245" r="3"/><circle cx="810" cy="245" r="3"/><circle cx="600" cy="72" r="2"/></g>
+</svg>

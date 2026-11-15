@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260" role="img" aria-labelledby="t">
+<title id="t">Technology constellation</title>
+<defs><linearGradient id="c" x2="1"><stop stop-color="#00eaff"/><stop offset="1" stop-color="#a17aff"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1100" height="260" rx="18" fill="#080b15"/>
+<g stroke="#42618e" stroke-opacity=".65" fill="none"><path d="M100 130L260 65 420 145 560 55 730 140 900 65 1010 155"/><path d="M260 65L310 210 560 55 620 210 900 65 840 210"/></g>
+<g fill="#091827" stroke="url(#c)" stroke-width="1.5" filter="url(#gl)">
+ <circle cx="100" cy="130" r="36"/><circle cx="260" cy="65" r="43"/><circle cx="420" cy="145" r="36"/><circle cx="560" cy="55" r="46"/><circle cx="730" cy="140" r="38"/><circle cx="900" cy="65" r="43"/><circle cx="1010" cy="155" r="34"/><circle cx="310" cy="210" r="22"/><circle cx="620" cy="210" r="22"/><circle cx="840" cy="210" r="22"/>
+</g>
+<g fill="#e8faff" font-family="Arial,sans-serif" text-anchor="middle" font-size="13">
+ <text x="100" y="135">C/C++</text><text x="260" y="70">PYTHON</text><text x="420" y="150">JS/TS</text><text x="560" y="60">AI / ML</text><text x="730" y="145">ESP32</text><text x="900" y="70">LINUX</text><text x="1010" y="160">GIT</text>
+ <text x="310" y="214" font-size="9">WEB</text><text x="620" y="214" font-size="9">IOT</text><text x="840" y="214" font-size="9">CLOUD</text>
+</g>
+</svg>
